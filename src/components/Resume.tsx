@@ -1,4 +1,4 @@
-import { Download, Calendar, MapPin, Mail, Phone, Award, BookOpen } from 'lucide-react';
+ import { Download, Calendar, MapPin, Mail, Phone, Award, BookOpen } from 'lucide-react';
 
 const Resume = () => {
   const handleDownloadCV = () => {
@@ -14,13 +14,13 @@ const Resume = () => {
       degree: 'Bachelor of Technology in Computer Science',
       institution: 'Lovely Professional University',
       year: '2023 - 2026',
-      gpa: '7.0',
+      gpa: '7.2',
     },
     {
       degree: 'Diploma in Electronics and Communication Engineering',
       institution: 'Government Polytechnic College, Mahabubnagar',
       year: '2020 - 2023',
-      gpa: '8.31%',
+      gpa: '8.31',
     },
     {
       degree: 'Matriculation',
@@ -73,7 +73,7 @@ const Resume = () => {
                 <div className="space-y-4">
                   <div className="flex items-center space-x-3">
                     <Mail className="text-orange-500" size={18} />
-                    <span className="text-gray-700">rajanarenderchalla@email.com</span>
+                    <span className="text-gray-700">challarajanarenderreddy@gmail.com</span>
                   </div>
                   <div className="flex items-center space-x-3">
                     <Phone className="text-orange-500" size={18} />
