@@ -31,9 +31,9 @@ const Skills = () => {
   const expertiseAreas = [
     { name: 'Web Development', level: 'Advanced', icon: '🌐' },
     { name: 'Problem Solving', level: 'Expert', icon: '🧩' },
-    { name: 'API Development', level: 'Advanced', icon: '🔗' },
-    { name: 'Cloud Services', level: 'Advanced', icon: '☁️' },
-    { name: 'Database Design', level: 'Intermediate', icon: '🗄️' },
+    { name: 'API Development', level: 'Intermediate', icon: '🔗' },
+    { name: 'Cloud Services', level: 'Intermediate', icon: '☁️' },
+    { name: 'Database Design', level: 'Basics', icon: '🗄️' },
   ];
 
   const softSkills = [
